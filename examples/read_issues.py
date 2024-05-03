@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 '''
 This short example shows how to read the issues from the
 provided 'github_issues.pkl' file and how to filter them.

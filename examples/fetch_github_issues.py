@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 '''
 This example shows how we fetched the issues from the Infineon organisation on GitHub.
 Feel free to modify this code and fetch the issues again depending on your preferences.

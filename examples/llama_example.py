@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 '''
 This example implements the approach shown in slide "Provided Example" of the challenge_introduction.pdf" slides.
 Feel free to modify this code and use it as a first basis for your own approach.
